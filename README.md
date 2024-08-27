@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o David Santos!
 
-<!--
-**dwdPonto04/dwdPonto04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de programação em busca de aprendizado constante e desenvolvimento pessoal. Atualmente, estou me dedicando a aprimorar minhas habilidades em **HTML**, **CSS**, **JavaScript**, e outros fundamentos da programação. 
 
-Here are some ideas to get you started:
+Minhas experiências e projetos até agora foram focados em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento web básico
+- Criação de layouts responsivos
+- Projetos de criptografia simples usando JavaScript
+
+Estou sempre em busca de novos desafios que me permitam aprender e crescer. Se você quiser ver meus projetos ou colaborar em algo, sinta-se à vontade para explorar meus repositórios!
+
+## Sobre mim
+
+- 🌱 Estudando constantemente programação e desenvolvimento web.
+- 🤝 Aberto a colaborações e projetos que me desafiem a aprender mais.
+- 🎯 Focado em construir uma base sólida em tecnologia e programação.
+
+Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/david-santos04/)
+[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/dwdPonto04)
+
+---
+
+**"Aprendizado constante é a chave para o sucesso."**
