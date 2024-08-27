@@ -6,7 +6,7 @@ Minhas experiências e projetos até agora foram focados em:
 
 - Desenvolvimento web básico
 - Criação de layouts responsivos
-- Projetos de criptografia simples usando JavaScript
+
 
 Estou sempre em busca de novos desafios que me permitam aprender e crescer. Se você quiser ver meus projetos ou colaborar em algo, sinta-se à vontade para explorar meus repositórios!
 
