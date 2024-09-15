@@ -1,6 +1,6 @@
 # Olá, eu sou o David Santos!
 
-Sou um estudante de programação em busca de aprendizado constante e desenvolvimento pessoal. Atualmente, estou me dedicando a aprimorar minhas habilidades em **HTML**, **CSS**, **JavaScript**, e outros fundamentos da programação. 
+Sou um estudante de programação em busca de aprendizado constante e desenvolvimento pessoal. Atualmente, estou me dedicando a aprimorar minhas habilidades em **HTML**, **CSS**, **PHP**, e outros fundamentos da programação. 
 
 Minhas experiências e projetos até agora foram focados em:
 
