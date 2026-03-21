@@ -1,20 +1,66 @@
-# Olá, eu sou o David Santos!
+# 👋 Olá, eu sou o David Santos!
 
-Sou um estudante de programação em busca de aprendizado constante e desenvolvimento pessoal. Atualmente, estou me dedicando a aprimorar minhas habilidades em **HTML**, **CSS**, **JAVA**, e outros fundamentos da programação. 
+💻 Desenvolvedor em formação  
+☕ Focado em Backend com Java  
+🚀 Em constante evolução  
 
-Minhas experiências e projetos até agora foram focados em:
+---
 
-- Desenvolvimento web básico
-- Criação de layouts responsivos
+## 🧠 Sobre mim
 
+Sou um desenvolvedor em formação com foco em backend, apaixonado por tecnologia e resolução de problemas.
 
-Estou sempre em busca de novos desafios que me permitam aprender e crescer. Se você quiser ver meus projetos ou colaborar em algo, sinta-se à vontade para explorar meus repositórios!
+Tenho me dedicado ao estudo de Java e conceitos fundamentais de desenvolvimento, buscando sempre escrever código limpo, eficiente e bem estruturado.
 
-## Sobre mim
+🎯 Meu objetivo é me tornar um desenvolvedor profissional e contribuir com projetos reais que gerem impacto.
 
-- 🌱 Estudando constantemente programação e desenvolvimento web.
-- 🤝 Aberto a colaborações e projetos que me desafiem a aprender mais.
-- 🎯 Focado em construir uma base sólida em tecnologia e programação.
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+- ☕ Java
+- 🧮 BigDecimal (precisão em sistemas financeiros)
+- 🗄️ Banco de Dados (MySQL / SQL)
+- 🔧 Git & GitHub
+- 🌐 HTML, CSS e JavaScript
+- ⚙️ Spring Boot (em aprendizado)
+
+---
+
+## 📚 Atualmente estudando
+
+- APIs REST
+- Estruturas de dados
+- Boas práticas (Clean Code)
+- Arquitetura de software
+
+---
+
+## 🚀 Projetos em destaque
+
+- 📌 Sistema de produtos com múltiplas moedas
+- 📌 Aplicações em Java para prática de lógica
+- 📌 Projetos voltados para backend
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/SEU-USUARIO
+- LinkedIn: (coloque seu link aqui)
+
+---
+
+## ⚡ Diferencial
+
+Busco sempre entender o "porquê" por trás das soluções, não apenas o "como".  
+Acredito que isso é o que transforma um programador em um desenvolvedor de verdade.
 
 Vamos nos conectar!
 
