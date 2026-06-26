@@ -8,52 +8,51 @@
 
 ## 🧠 Sobre mim
 
-Sou um desenvolvedor em formação com foco em backend, apaixonado por tecnologia e resolução de problemas.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e direciono minha formação para o desenvolvimento **Back-End com Java**.
 
-Tenho me dedicado ao estudo de Java e conceitos fundamentais de desenvolvimento, buscando sempre escrever código limpo, eficiente e bem estruturado.
+Tenho dedicado meus estudos aos fundamentos da programação, buscando compreender o **porquê** das soluções antes de simplesmente aplicá-las. Acredito que uma base sólida é essencial para construir software de qualidade e evoluir continuamente como desenvolvedor.
 
-🎯 Meu objetivo é me tornar um desenvolvedor profissional e contribuir com projetos reais que gerem impacto.
+Atualmente desenvolvo projetos para consolidar meus conhecimentos em Java, SQL, Spring Boot e boas práticas de desenvolvimento, preparando-me para minha primeira oportunidade na área.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- ☕ Java
-- 🧮 BigDecimal (precisão em sistemas financeiros)
-- 🗄️ Banco de Dados (MySQL / SQL)
-- 🔧 Git & GitHub
-- 🌐 HTML, CSS e JavaScript
-- ⚙️ Spring Boot (em aprendizado)
+* ☕ Java
+* 🌱 Spring Boot
+* 🗄️ SQL
+* 🐘 PostgreSQL
+* 💾 H2 Database
+* 🔧 Git
+* 🐙 GitHub
+* 📦 Maven
+* ⚙️ Gradle
+* 🐳 Docker
 
 ---
 
 ## 📚 Atualmente estudando
 
-- APIs REST
-- Estruturas de dados
-- Boas práticas (Clean Code)
-- Arquitetura de software
+* 🌱 Spring Boot
+* 🌐 APIs REST
+* 🧪 Testes automatizados
+* 🧱 Arquitetura em Camadas
+* 🧹 Clean Code
+
 
 ---
 
 ## 🚀 Projetos em destaque
 
-- 📌 Sistema de produtos com múltiplas moedas
-- 📌 Aplicações em Java para prática de lógica
-- 📌 Projetos voltados para backend
-
----
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark)
-
----
+- 🎬 ScreenMatch
+- 🚗 Tabela FIPE
+- 📦 Sistema de Produtos *(em desenvolvimento)*
 
 ## 📫 Contato
 
-- GitHub: https://github.com/SEU-USUARIO
-- LinkedIn: (coloque seu link aqui)
+- GitHub: https://github.com/dwdPonto04
+- LinkedIn: https://www.linkedin.com/in/david-santos04/
+- E-mail: davidfl44.pro@gmail.com
 
 ---
 
@@ -69,4 +68,4 @@ Vamos nos conectar!
 
 ---
 
-**"Aprendizado constante é a chave para o sucesso."**
+**"Grandes sistemas são construídos sobre fundamentos sólidos."**
